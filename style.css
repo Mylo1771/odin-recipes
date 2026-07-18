@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #51017c;
+    color: #EEDAA5;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a:link,
+a:visited {
+    color: #51017C;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #B9379D;
+}
+
+.heading-container {
+    text-align: center;
+    font-size: 24px;
+}
+
+.breakfast-heading,
+.dinner-heading,
+.refreshment-heading {
+    text-align: center;
+}
+
+.breakfast-list,
+.dinner-list,
+.refreshment-list {
+    color: #51017C;
+    font-size: 18px;
+    text-align: center;
+    justify-content: center;
+    width: 600px;
+    border-radius: 15px;
+    background-color: #EEDAA5;
+    margin: 50px auto;
+    padding: 10px 10px;
+}
