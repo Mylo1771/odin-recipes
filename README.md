@@ -3,4 +3,4 @@ Hello all! Welcome to my recipe website
 
 What you are seeing here is a work-in-progress for The Odin Project. 
 
-At this current stage, I have implemented some rudimentary CSS coding for my home-page. At a later date, I will work on enhancing it alongside my recipe pages. Stay tuned!
+As of the latest update to this website, all pages have been enhanced with CSS to get it to a viewable and functional state. More updates are to come to enhance the overall layout and function of the site as more concepts are learned and honed in. 
